@@ -1,1 +1,0 @@
-XeLaTeX+MakeIndex+BibTeX
